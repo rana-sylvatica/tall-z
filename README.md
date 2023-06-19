@@ -17,6 +17,8 @@ See the folder titled "CAD Files"
 
 These can be 3D printed with a consumer MSLA resin printer or ordered from a printing service in either resin or nylon (SLS or MJF).  I like nylon ones personally, but preferences vary.
 
+If ordering from a printing service, the file labeled "tall-Z_x4" has 4 tall-Z buttons connected together.  This is often cheaper per unit compared to ordering multiple individual buttons.
+
 - #### Axle
 
 The stainless steel axle makes the tall-Z significantly stronger than an OEM Z-button, where the pegs can occasionally snap off.
